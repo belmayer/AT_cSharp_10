@@ -8,7 +8,7 @@ class Program
         int aleatorio = random.Next(1, 51);
         int tentativas = 5;
 
-        Console.WriteLine("Tente adivinhar um número entre 1 e 50 Você tem 5 tentativas");
+        Console.WriteLine("Tente adivinhar um número entre 1 e 50  Você tem 5 tentativas");
 
         for (int i = 1; i <= tentativas; i++)
         {

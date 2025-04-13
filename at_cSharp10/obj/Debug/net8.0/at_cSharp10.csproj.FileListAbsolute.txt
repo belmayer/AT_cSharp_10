@@ -12,3 +12,4 @@
 /Users/bella/c#/AT_fundamentos/at_10/at_cSharp10/obj/Debug/net8.0/at_cSharp10.pdb
 /Users/bella/c#/AT_fundamentos/at_10/at_cSharp10/obj/Debug/net8.0/at_cSharp10.genruntimeconfig.cache
 /Users/bella/c#/AT_fundamentos/at_10/at_cSharp10/obj/Debug/net8.0/ref/at_cSharp10.dll
+/Users/bella/c#/AT_fundamentos/at_10/at_cSharp10/obj/Debug/net8.0/at_cSharp10.sourcelink.json
